@@ -1,4 +1,4 @@
-# NFTWU
+# 基于 Web3 的 NFT 交易平台
 
 > 一个基于 Scaffold-ETH 2 构建的 Web3 NFT 应用，集成 NFT 铸造、批量空投、IPFS 元数据管理、Marketplace 交易、报价系统与盲拍机制，并扩展了内容展示型首页。
 
