@@ -1,0 +1,3 @@
+name,description,image_file,trait_type_1,trait_value_1,trait_type_2,trait_value_2,trait_type_3,trait_value_3
+NFT #1,First NFT in the batch,image1.png,Background,Blue,Rarity,Common,Level,1
+NFT #2,Second NFT in the batch,image2.png,Background,Red,Rarity,Rare,Level,5
